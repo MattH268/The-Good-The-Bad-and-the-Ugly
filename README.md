@@ -24,7 +24,7 @@ This project shows three different graphs displaying January temperatures from 2
 
 # The Good
 
-![Image 2](blob:https://colab.research.google.com/799252ec-fec4-4497-a296-adee54f3343b)
+https://public.tableau.com/profile/matt.h3663#!/vizhome/GroupProject1_15809820039910/Sheet1?publish=yes
 
 blob:https://colab.research.google.com/799252ec-fec4-4497-a296-adee54f3343b
 
