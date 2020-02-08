@@ -31,7 +31,7 @@ This first graph is the “good” graph, and it displays the average temperatur
 
 # The Bad
 
-Image
+![Image 3](blob:https://colab.research.google.com/8a9de14c-c07b-454b-8f7a-1f91ca1cabe2)
      
 This graph is the “bad.” There are many reasons this graph can be considered bad. First, it is not accurate. The numbers are skewed right and left, and the actual values do not match up with the dataset. Visually, it is a fine-looking graph. If you did not check and see if it matched the dataset or not, you may think it is accurate. You are able to clearly view the graph and all of its data points; it just happens to be very misleading. Instead of using average temperature for each month, I chose max. But I labeled it average, making it a poor graph. The values themselves are not accurate and that is why this can be considered a “bad” graph.
 #The Ugly
