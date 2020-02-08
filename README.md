@@ -13,6 +13,7 @@ This project shows the maximum temperatures throughout January of 2017, every ot
      
      
 ![Image 1](https://user-images.githubusercontent.com/60278266/73113724-80587300-3ee3-11ea-90ec-2e8b8c6d997f.jpeg)
+![(https://user-images.githubusercontent.com/60278266/73113724-80587300-3ee3-11ea-90ec-2e8b8c6d997f.jpeg)]
 
 Conclusions
 
