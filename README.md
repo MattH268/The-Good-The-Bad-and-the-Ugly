@@ -32,13 +32,11 @@ This first graph is the “good” graph, and it displays the average temperatur
 # The Bad
 
 ![Image 3](blob:https://colab.research.google.com/8a9de14c-c07b-454b-8f7a-1f91ca1cabe2)
-blob:https://colab.research.google.com/8a9de14c-c07b-454b-8f7a-1f91ca1cabe2
      
 This graph is the “bad.” There are many reasons this graph can be considered bad. First, it is not accurate. The numbers are skewed right and left, and the actual values do not match up with the dataset. Visually, it is a fine-looking graph. If you did not check and see if it matched the dataset or not, you may think it is accurate. You are able to clearly view the graph and all of its data points; it just happens to be very misleading. Instead of using average temperature for each month, I chose max. But I labeled it average, making it a poor graph. The values themselves are not accurate and that is why this can be considered a “bad” graph.
 
 # The Ugly
 
 ![Image 4](blob:https://colab.research.google.com/e2172e5b-1be2-4222-85ef-f2da5026b747)
-blob:https://colab.research.google.com/e2172e5b-1be2-4222-85ef-f2da5026b747
 
 This is the "ugly" graph, displaying the values of max temperature in January from 2000-2019. I plotted 4 points for each year (1 for each week in January). This allows me and the viewer of the graph to see the trend in max temperature for each January as well as how it has changed throughout the past 20 years. The graph I made accurately represents those trends, however it is in a way that is not visually pleasing. I changed the shape, size, and color of the line. I made the shape into "step" rather than "linear". It still displays when the temperature rises and falls, it just appears to take a longer, less direct way to get there. You are still able to view where the temperatures are different or where they spiked but it appears softer because of the shape and the size. I made the line thicker. This does not change the trend, just how it looks; it makes it a little harder to see. I changed the range of the y-axis. I made it go to 100 which is well above the range. This does nothing to the way the line looks but makes it worse to look at. Lastly, I changed the color of the graph to grey, which draws no visual appeal to the graph. This accurately represents the max temperature throughout nearly two decades; but in a way that is not pleasurable to look at, or "ugly".
